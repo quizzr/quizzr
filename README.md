@@ -16,7 +16,7 @@ Bokstaver: små
 SHA-1 digest: 02185bc6bb75c69d361f4a829636271bed723c92
 
 ## Oppgave 2
-Type: Ett, enkelt norsk ord, etterfulgt av ett tall
+Type: Ett, enkelt norsk ord ~~, etterfulgt av ett tall~~
 
 Spesialtegn: Ingen.
 
