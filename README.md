@@ -1,8 +1,8 @@
 # Passord
-* Alle ord uten æøå.
-* Alle ord er norske, fra norsk ordbok. 
-* Et eksempel på en ordbok: http://www.edd.uio.no/prosjekt/ordbanken/.
-** Tips: For å hente kun ord via kommandolinjen: tail -n +75 fullform_bm.txt | awk '{ print $2}' | sort > tmp.txt
+* Alle ord uten æøå
+* Alle ord er norske, fra norsk ordbok
+* Et eksempel på en ordbok: http://www.edd.uio.no/prosjekt/ordbanken/
+  * Tips: For å hente kun ord via kommandolinjen: tail -n +75 fullform_bm.txt | awk '{ print $2}' | sort > tmp.txt
 
 ## Oppgave 1
 Type: Ett, enkelt norsk ord
